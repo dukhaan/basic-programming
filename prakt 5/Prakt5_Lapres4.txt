@@ -1,0 +1,15 @@
+prakt 5
+Lapres 4a
+1. bil 10 Output = Kategori A
+2. bil -10 Output = Stop, karena syarat memenuhi input adalah > 0
+3. bil 0 Output = Stop, karena syarat input adalah > 0
+
+Lapres 4b
+1. bil 10 Output = Kategori A
+2. bil -10 Output = Kategori B
+3. bil 0 Output = Kategori B
+
+Lapres 4c
+1. bil 10 Output = Kategori A
+2. bil -10 Output = Kagetori B, kemudian ke Output Kategori A
+3. bil 0 Output = Kategori B, kemudian ke Output Kategori A

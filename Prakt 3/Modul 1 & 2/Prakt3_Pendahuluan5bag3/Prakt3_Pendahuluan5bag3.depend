@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1661410776 source:d:\2022\praktikum algoritma\prakt 3\prakt3_pendahuluan5bag3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
